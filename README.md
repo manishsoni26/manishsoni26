@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a **final-year MCA student** at Banaras Hindu 
 
 ## 🌍 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/manish-soni-0395001b2)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-soni-0395001b2)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:manishsoniinps@gmail.com)
 
 ---
