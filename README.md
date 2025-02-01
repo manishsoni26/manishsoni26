@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a **final-year MCA student** at Banaras Hindu 
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Java](https://img.shields.io/badge/-java-61DAFB?logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-java-61DAFB?logo=java&logoColor=black)
 
 ---
 
